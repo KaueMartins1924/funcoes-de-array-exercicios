@@ -18,3 +18,4 @@ Crie duas funcões que recebem como parâmetro um objeto.
 
     Chame a funcão 3, passando como argumentos o **objeto disponibilizado** no arquivo `script.js`, e a função 1.
     Repita o processo para a funcão 2.
+
